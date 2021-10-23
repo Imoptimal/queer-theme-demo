@@ -7,6 +7,5 @@ Also certain plugins may not work properly due to the migration to static files.
 
 Resources used:
 * Cover photo used by <a href="https://unsplash.com/@marcsm?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Marc Sendra Martorell</a> on <a href="https://unsplash.com/s/photos/rainbow?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
   <br>
 * The logo © 2018 Ivan Maljukanović, CC0 - made by me, not available online apart from this repository
