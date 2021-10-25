@@ -205,5 +205,7 @@ jQuery(function($) {
     } else {
         $(".rainbow").rainbowize();
     }
+    
+    $('body').css('background-image', 'url(./wp-content/themes/queer/img/gay.png)');
 
 });
