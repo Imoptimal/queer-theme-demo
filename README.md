@@ -1,7 +1,8 @@
 # queer-theme-demo
 Live Demo for the Queer Theme - https://imoptimal.github.io/queer-theme-demo/
 
-Uploaded as a static website (using the Simply Static plugin in WordPress).<br>
+Converted into static website by [Simply Static](https://wordpress.org/plugins/simply-static/) plugin.<br>
+
 It was developed on a local server, so certain functionalities are messed up due to the absolute url paths used.<br>
 Also certain plugins may not work properly due to the migration to static files.
 
